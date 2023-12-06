@@ -1,10 +1,11 @@
 # advent-of-code
 
-First time trying advent of code.
-Expect messy code.
+## Description
+Repository for my advent of code solutions
 
-* [x] Day 1
-* [x] Day 2
-* [x] Day 3
-* [x] Day 4
-* [ ] Day 5
+## Note
+* 2022 is my first time trying advent of code, planning to complete all challenges including challenges from past and future years
+* solutions are not perfect nor clean
+* participating for practice purposes
+* not competing for fastest time
+* solutions are in JavaScript, but may include other languages in the future
